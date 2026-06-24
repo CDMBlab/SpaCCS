@@ -29,6 +29,7 @@ identification.
 
 ```bash
 python Simulation.py
+python "Mouse Embryo E10.py"
 ```
 
 ## Download All Datasets Used in SpaCCS
